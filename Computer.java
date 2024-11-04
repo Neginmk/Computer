@@ -1,4 +1,4 @@
-public class Computer
+public class Computer  // hihi
 {
     
     private String hersteller;
